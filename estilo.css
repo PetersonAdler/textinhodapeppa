@@ -1,0 +1,33 @@
+header{
+    text-align:center;
+    font: Normal 35px Verdana;
+    color: white;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.394);
+}
+body{
+    background-color:rgb(242, 9, 250);
+    font: Normal 15px Verdana;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 150px;
+    width: 600px;
+    margin:auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.336);
+}
+div{
+    font: Normal 15px Verdana;
+    text-align:justify;
+}
+footer{
+    text-align:center;
+    color: white;
+    font: Normal 20px Verdana;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.394);
+}
+h1{
+    font: Verdana;
+    text-align:center;
+}
+
