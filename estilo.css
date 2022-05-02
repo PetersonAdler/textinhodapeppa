@@ -1,4 +1,4 @@
-header{
+h1{
     text-align:center;
     font: Normal 35px Verdana;
     color: white;
@@ -9,12 +9,11 @@ body{
     font: Normal 15px Verdana;
 }
 section{
-    background: white;
+    background: rgb(242, 9, 250);
     border-radius: 10px;
     padding: 150px;
     width: 600px;
     margin:auto;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.336);
 }
 div{
     font: Normal 15px Verdana;
@@ -26,8 +25,3 @@ footer{
     font: Normal 20px Verdana;
     text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.394);
 }
-h1{
-    font: Verdana;
-    text-align:center;
-}
-
