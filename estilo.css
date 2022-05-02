@@ -1,27 +1,33 @@
-h1{
-    text-align:center;
-    font: Normal 35px Verdana;
-    color: white;
-    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.394);
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 body{
-    background-color:rgb(242, 9, 250);
-    font: Normal 15px Verdana;
+    height: 100vh;
+    background: linear-gradient(135deg, 
+    rgb(255, 219, 254) 0%, 
+    rgb(246, 136, 238) 100%);
+    align-items: center;
+    justify-content: center;
 }
-section{
-    background: rgb(242, 9, 250);
+h1{
+    text-align: center;
+}
+.textbox{
+    text-align: justify;
+    margin-left: auto;
+    margin-right:auto;
+    width:600px;
+    font-size: 75%;
+}
+.image{
+    text-align: center;
+}
+img{
     border-radius: 10px;
-    padding: 150px;
-    width: 600px;
-    margin:auto;
-}
-div{
-    font: Normal 15px Verdana;
-    text-align:justify;
 }
 footer{
     text-align:center;
-    color: white;
-    font: Normal 20px Verdana;
-    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.394);
 }
